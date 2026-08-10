@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "Compute Network",
   description: "Share your idle compute, earn rewards",
